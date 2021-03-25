@@ -1,0 +1,32 @@
+header{
+    background-color: #000;
+    color: #fff;
+}
+
+#logo{
+    padding: 5px;
+    border-color: #fff;
+    border-style: inset;
+}
+
+#header{
+    height: 100%;
+    padding: 5px;
+    border-color: #fff;
+    border-style: inset;
+}
+
+#leftcol{
+    height: 400px;
+    background-color: red;
+}
+
+#rightcol{
+    height: 400px;
+    background-color: palegreen;
+}
+
+footer{
+    background-color: #000;
+    color: #fff;
+}
