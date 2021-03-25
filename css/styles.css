@@ -1,3 +1,19 @@
+.jumbotron{
+    background-image: url('../img/little-world.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 200px;
+    color: #fff;
+    background-color: rgba(0,0,0, 0.5);
+}
+#bigtext{
+    text-shadow: 4px 2px #000;
+}
+
+#liltext{
+    text-shadow: 1px 1px #000;
+}
 header{
     background-color: #000;
     color: #fff;
@@ -30,3 +46,4 @@ footer{
     background-color: #000;
     color: #fff;
 }
+
